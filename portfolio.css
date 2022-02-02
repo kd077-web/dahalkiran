@@ -132,7 +132,7 @@ form .newsletter input:last-child{
     width:100%
 }
 .about-me{
-    background:linear-gradient(rgba(0,0,0,90%),rgba(0,0,0,90%)),url(images/laptop-gdac3f305a_1920.jpg);
+    background:linear-gradient(rgba(0,0,0,90%),rgba(0,0,0,90%)),url(images/laptop.jpg);
     min-height:100vh;
     width: 100%;
     margin-bottom: 25px;
