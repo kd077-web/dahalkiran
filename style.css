@@ -132,7 +132,7 @@ form .newsletter input:last-child{
     width:100%
 }
 .about-me{
-    background:linear-gradient(rgba(0,0,0,90%),rgba(0,0,0,90%)),url(images/laptop-gdac3f305a_1920.jpg);
+    background:linear-gradient(rgba(0,0,0,90%),rgba(0,0,0,90%)),url(images/laptop.jpg);
     min-height:100vh;
     width: 100%;
     margin-bottom: 25px;
@@ -311,7 +311,7 @@ h5{
     cursor:pointer;
 }
 .contact{
-    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(images/iphone-g39bb3c48d_1920.jpg);
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(images/iphone.jpg);
     height:100vh;
     width:100%;
     background-size: cover;
